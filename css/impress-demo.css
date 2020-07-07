@@ -250,8 +250,8 @@ a:focus {
     text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
 
     font-family: 'Open Sans', Arial, sans-serif;
-    font-size: 30px;
-    line-height: 36px;
+    font-size: 60px;
+    line-height: 60px;
     letter-spacing: -1px;
 }
 
@@ -259,7 +259,7 @@ a:focus {
     display: block;
 
     width: 2200px;
-    height: 900px;
+    height: 1310px;
     padding: 40px 60px;
 
     background-color: white;
@@ -271,8 +271,8 @@ a:focus {
     text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
 
     font-family: 'Open Sans', Arial, sans-serif;
-    font-size: 30px;
-    line-height: 36px;
+    font-size: 60px;
+    line-height: 60px;
     letter-spacing: -1px;
 }
 
